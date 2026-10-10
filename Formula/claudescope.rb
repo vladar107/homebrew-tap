@@ -1,8 +1,8 @@
 class Claudescope < Formula
   desc "Local, read-only viewer for AI coding-agent transcripts"
   homepage "https://github.com/vladar107/claudescope"
-  url "https://registry.npmjs.org/@vladar107/claudescope/-/claudescope-0.24.1.tgz"
-  sha256 "1d8bf5166ddcf85d68b3f70a0cd4952717bc15eb509653863ee5e1742b6a7bdd"
+  url "https://registry.npmjs.org/@vladar107/claudescope/-/claudescope-0.24.2.tgz"
+  sha256 "68f0d9ebc66906ea99f3c8724eb95875da486e2fda9b00ec2f90c00027673a46"
   license "MIT"
 
   depends_on "node"
